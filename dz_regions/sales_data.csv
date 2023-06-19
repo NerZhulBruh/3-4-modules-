@@ -1,0 +1,63 @@
+ID,Sales,Sales Region,Currency,Sales (RUB)
+1,61,Serbia,RSD,61
+2,24,Netherlands,EUR,24
+3,81,Finland,EUR,81
+4,70,Ukraine,UAH,70
+5,30,Serbia,RSD,30
+6,92,Serbia,RSD,92
+7,96,Netherlands,EUR,96
+8,84,Finland,EUR,84
+9,84,Ukraine,UAH,84
+10,97,Serbia,RSD,97
+11,33,Serbia,RSD,33
+12,12,Netherlands,EUR,12
+13,31,Finland,EUR,31
+14,62,Ukraine,UAH,62
+15,11,Serbia,RSD,11
+16,97,Serbia,RSD,97
+17,39,Netherlands,EUR,39
+18,47,Finland,EUR,47
+19,11,Ukraine,UAH,11
+20,73,Serbia,RSD,73
+21,69,Serbia,RSD,69
+22,30,Netherlands,EUR,30
+23,42,Finland,EUR,42
+24,85,Ukraine,UAH,85
+25,67,Serbia,RSD,67
+26,31,Serbia,RSD,31
+27,98,Netherlands,EUR,98
+28,58,Finland,EUR,58
+29,68,Ukraine,UAH,68
+30,51,Serbia,RSD,51
+31,69,Serbia,RSD,69
+32,89,Netherlands,EUR,89
+33,24,Finland,EUR,24
+34,71,Ukraine,UAH,71
+35,71,Serbia,RSD,71
+36,56,Serbia,RSD,56
+37,71,Netherlands,EUR,71
+38,60,Finland,EUR,60
+39,64,Ukraine,UAH,64
+40,73,Serbia,RSD,73
+41,12,Serbia,RSD,12
+42,60,Netherlands,EUR,60
+43,16,Finland,EUR,16
+44,30,Ukraine,UAH,30
+45,82,Serbia,RSD,82
+46,48,Serbia,RSD,48
+47,27,Netherlands,EUR,27
+48,13,Finland,EUR,13
+49,98,Ukraine,UAH,98
+50,69,Serbia,RSD,69
+
+Task,Result
+Всего продаж,2837
+Уникальных регионов,4
+Средние продажи,56.74
+Самый дорогой продукт,27
+
+Продажи по регионам
+Serbia,1192
+Netherlands,546
+Finland,456
+Ukraine,643
