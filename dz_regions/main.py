@@ -247,7 +247,7 @@ with open(filename, mode="w", newline="", encoding="utf-8") as file:
         sales_per_product.append(sale["Sales"])
         top_products[sale["ID"]] += sale["Sales"]
 
-    writer.writerow([])  # Empty line before tasks
+    writer.writerow([])
     writer.writerow(["Task", "Result"])
     writer.writerow(["Всего продаж", total_sales])
     writer.writerow(["Уникальных регионов", len(unique_regions)])
